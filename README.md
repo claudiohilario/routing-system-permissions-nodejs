@@ -8,6 +8,9 @@ Desenvolvimento de um sistema de permissões de rotas (express + nodejs)
   "admin": {
     "funcionalidade": true,
     "funcionalidaden": true,
+  },
+  "level": {
+    "funcionalidades": true,
   }
 }
 ```
